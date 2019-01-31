@@ -14,5 +14,5 @@ npm start
 note : application starts on port 3000 on localhost
 
 
-endpoints available:  http://localhost:3000/api/greeting
+endpoints available:  http://localhost:3000/api/greeting and 
                       http://localhost:3000/api/metadata
